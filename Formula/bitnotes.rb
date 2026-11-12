@@ -1,8 +1,8 @@
 class Bitnotes < Formula
   desc "Cashu wallet and printable Bitcoin bearer notes"
   homepage "https://github.com/nyamuniga/paper-bitcoin"
-  url "https://github.com/nyamuniga/paper-bitcoin/archive/refs/tags/v0.1.19.tar.gz"
-  sha256 "e9207cb0f4573dc06771aeaf2abf5d0493b5d9b5098cebfdd6e3fc1f408878b0"
+  url "https://github.com/nyamuniga/paper-bitcoin/archive/refs/tags/v0.1.20.tar.gz"
+  sha256 "3f25ae43650d3ef3b7ebd424090b328bdb90cf48db2ef8e9b66a5cfbbd41a40b"
   license "MIT"
 
   depends_on "rust" => :build
